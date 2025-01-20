@@ -1,0 +1,21 @@
+{
+  "name": "raipur-radiance",
+  "displayName": "Raipur Radiance",
+  "description": "Raipur Radiance Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Raipur Radiance Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Raipur Radiance Theme-color-theme.json"
+      }
+    ]
+  }
+}
