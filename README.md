@@ -1,17 +1,40 @@
-# raipur-radiance README
+# Raipur Radiance - VS Code Theme
 
-## Working with Markdown
+Raipur Radiance is a visually appealing VS Code theme inspired by the vibrant hues of Raipur. This theme features a warm and radiant orange color palette, providing a soothing yet energetic coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- **Relaxing Foreground & Background**: Carefully chosen colors to reduce eye strain.
+- **Warm Orange Accents**: Enhancing readability and focus.
+- **Optimized for Clarity**: Ensuring code is easy to read and distinguish.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+### From VS Code Marketplace (Coming Soon)
+1. Open **Extensions** (`Ctrl+Shift+X` or `Cmd+Shift+X` on Mac).
+2. Search for **Raipur Radiance**.
+3. Click **Install** and activate the theme.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Manual Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/AshishNamdeo14/raipur-radiance
+   ```
+2. Open VS Code and navigate to `Extensions`.
+3. Click `Install from VSIX` and select the downloaded `.vsix` file.
 
-**Enjoy!**
-# raipur-radiance
+## Activating the Theme
+1. Open Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+2. Search for `Preferences: Color Theme`.
+3. Select **Raipur Radiance** from the list.
+
+## Screenshots
+![Raipur Radiance Preview](images/preview.png)
+
+## Contributing
+Feel free to contribute by reporting issues, suggesting improvements, or submitting pull requests.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+### Enjoy a radiant and refreshing coding experience with Raipur Radiance! 🚀
