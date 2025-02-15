@@ -3,6 +3,7 @@
   "displayName": "Raipur Radiance",
   "description": "Raipur Radiance Theme",
   "version": "0.0.2",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.96.0"
   },
